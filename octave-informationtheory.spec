@@ -3,7 +3,7 @@
 Summary:	Octave functions for basic information theory
 Name:       octave-%{pkgname}
 Version:	0.1.8
-Release:        4
+Release:        5
 Source0:	%{pkgname}-%{version}.tar.gz
 License:	GPLv2+
 Group:		Sciences/Mathematics
